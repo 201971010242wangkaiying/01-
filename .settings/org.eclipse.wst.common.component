@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="kp01fypwf">
+        <wb-resource deploy-path="/" source-path="/WebRoot"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="/kp01fypwf"/>
+        <property name="java-output-path" value="/kp01fypwf/WebRoot/WEB-INF/classes"/>
+    </wb-module>
+</project-modules>
